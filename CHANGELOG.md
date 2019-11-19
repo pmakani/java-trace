@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.109.3](https://www.github.com/googleapis/java-trace/compare/v0.109.2...v0.109.3) (2019-11-19)
+
+
+### Bug Fixes
+
+* **regen:** updates retry settings, common templates ([#48](https://www.github.com/googleapis/java-trace/issues/48)) ([19725a9](https://www.github.com/googleapis/java-trace/commit/19725a98aa438b41461d4a0dc0794a1516f9b512))
+
 ### [0.109.2](https://www.github.com/googleapis/java-trace/compare/v0.109.1...v0.109.2) (2019-11-18)
 
 
